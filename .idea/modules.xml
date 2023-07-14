@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/exc07_UnitTest.iml" filepath="$PROJECT_DIR$/exc07_UnitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myQueueTest.iml" filepath="$PROJECT_DIR$/myQueueTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myQueueTest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myQueueTest.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myQueueTest.test.iml" filepath="$PROJECT_DIR$/.idea/modules/myQueueTest.test.iml" />
     </modules>
   </component>
 </project>
